@@ -1,0 +1,33 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arduino Build Files & Caches
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+build/
+output/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Backups and temporary files
+*~
+*.swp
+*.bak
